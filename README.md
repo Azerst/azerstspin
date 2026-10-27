@@ -1,1 +1,1 @@
-# azerstspin
+# azerst
